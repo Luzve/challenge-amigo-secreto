@@ -11,7 +11,10 @@ El **HTML** y **CSS** están predefinidos; el trabajo principal está en `app.js
 ## 📸 Demo
 
 ### Agregar nombres
-> Inserta aquí una imagen o GIF mostrando cómo agregas nombres y se listan.
+
+
+<img width="850" height="773" alt="image" src="https://github.com/user-attachments/assets/dbba0b88-04cc-4fdd-8082-8d8f1da5dea2" />
+
 
 ![Agregar nombres](assets/demo-agregar-nombres.gif)
 <!-- Alternativa estática:
@@ -19,15 +22,15 @@ El **HTML** y **CSS** están predefinidos; el trabajo principal está en `app.js
 -->
 
 ### Sortear amigo
-> Inserta aquí una imagen o GIF mostrando el sorteo y el resultado.
+> <img width="798" height="749" alt="image" src="https://github.com/user-attachments/assets/6012da40-e6bf-46a8-b4fc-36ca499f6de1" />
+
 
 ![Sortear amigo](assets/demo-sortear.gif)
 <!-- Alternativa estática:
 ![Resultado del sorteo](assets/captura-sorteo.png)
 -->
 
-> 💡 **Cómo grabar un GIF rápido:** graba un MP4 y conviértelo con herramientas como ScreenToGif, ezgif.com o ffmpeg.  
-> Guarda los archivos en `assets/` y actualiza las rutas arriba.
+
 
 ---
 
@@ -48,7 +51,7 @@ El **HTML** y **CSS** están predefinidos; el trabajo principal está en `app.js
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
